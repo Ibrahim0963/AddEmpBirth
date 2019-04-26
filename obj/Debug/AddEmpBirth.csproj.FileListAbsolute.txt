@@ -1,0 +1,7 @@
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\bin\Debug\AddEmpBirth.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\bin\Debug\AddEmpBirth.exe
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\bin\Debug\AddEmpBirth.pdb
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\obj\Debug\AddEmpBirth.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\obj\Debug\AddEmpBirth.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\obj\Debug\AddEmpBirth.exe
+C:\Users\Laptop\source\repos\ConsoleApp4\AddEmpBirth\obj\Debug\AddEmpBirth.pdb
