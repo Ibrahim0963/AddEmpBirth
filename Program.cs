@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,16 +23,10 @@ namespace AddEmpBirth
         static void Main(string[] args)
         {
             Console.WriteLine(DateTime.Now);
-
-            //  int dd = 0, mm = 0, yy = 0;
-
-            //Console.WriteLine("How many Employees do you want to add ? ");
-            //int total = int.Parse(Console.ReadLine());
             char menu;
             Console.Write("\n\nCreate a nested struct and store data in an array :\n");
             Console.Write("-------------------------------------------------------\n");
 
-            // Employee[] emp = new Employee[total];
             List<Employee> emps = new List<Employee>(); // List<Employee> emp = new List<Employee>(); without this Employee emp;
             Employee emp;
            do
